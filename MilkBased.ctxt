@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MilkBased
+comment0.text=\r\n\ Milk\ Based\ Drinks\r\n\r\n\ @author\ \ \ \ \ \ Daniuella\ Overko\ \ \ \ 3795524\r\n\ @version\ \ \ \ \ CS\ 1083\ \ \ \ \ \ \ \ \ \ \ \ \ Project\:\ Part\ 2\r\n
+comment1.params=orderedSize\ orderedTemp\ orderedDrink\ orderedMilk\ orderedFlavour\ timeOrdered\ orderCustomer
+comment1.target=MilkBased(int,\ int,\ int,\ int,\ int,\ java.lang.String,\ Customer)
+comment2.params=
+comment2.target=java.lang.String\ label()
+comment3.params=
+comment3.target=java.lang.String\ info()
+numComments=4

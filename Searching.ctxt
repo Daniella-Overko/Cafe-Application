@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Searching
+comment0.text=\r\n\ Searching\ class\ to\ check\ if\ which\ emails\ are\ in\ the\ system.\ \r\n\r\n\ @author\ \ \ \ \ \ Daniuella\ Overko\ \ \ \ 3795524\r\n\ @version\ \ \ \ \ CS\ 1083\ \ \ \ \ \ \ \ \ \ \ \ \ Project\:\ Part\ 2\r\n
+comment1.params=list\ target
+comment1.target=int\ linearSearch(java.lang.Object[],\ java.lang.Object)
+numComments=2

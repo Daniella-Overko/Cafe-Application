@@ -1,0 +1,3 @@
+Size: Medium	 Temperature: Hot	 Drink: Drip Coffee	 Additions: Milk	 Time Ordered: 13:23	 Name: asdf
+Size: Large	 Temperature: Hot	 Drink: Espresso	 Time Ordered: 13:23	 Name: annie
+Size: Large	 Temperature: Iced	 Drink: Espresso	 Time Ordered: 13:23	 Name: John

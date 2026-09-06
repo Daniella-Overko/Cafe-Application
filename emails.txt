@@ -1,0 +1,12 @@
+johndoe@gmail.com
+45
+jane.doe@yahoo.com
+10
+asdf@gmail.com
+15
+james@gmail.com
+5
+danie@gmail.com
+5
+annie@gmail.com
+5
